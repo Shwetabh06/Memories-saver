@@ -1,4 +1,4 @@
-<h1 align="center">  &nbsp; VisitAndTell  </h1>
+<h1 align="center">  &nbsp; Memories-Saver  </h1>
 
   <img src="https://github.com/atharva137/Memories-App-MERN/blob/master/client/public/memories-readme.png">
 
