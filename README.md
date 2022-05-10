@@ -23,7 +23,7 @@
 
 Full Stack MERN Application - from start to finish.
 
-The App is called "VisitAndTell" and it is a simple social media app that allows users to post interesting events that happened in their lives.
+The App is called "Memories Saver" and it is a simple social media app that allows users to post interesting events that happened in their lives.
 with real app features like user authentication and social login using Google accounts.
 
 <h1></h1>
